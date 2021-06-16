@@ -35,8 +35,6 @@ $config['base_url'] = 'http://localhost/CI-1811110-Fadhilla/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
-
 /*
 |--------------------------------------------------------------------------
 | URI PROTOCOL
